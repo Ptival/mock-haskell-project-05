@@ -1,0 +1,23 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.31.2.
+--
+-- see: https://github.com/sol/hpack
+--
+-- hash: 7cada43a5828910688a75e3c7b2a3042803223a7fc410151f71911c1592330fc
+
+name:           outer-project
+version:        0.0.1
+build-type:     Simple
+
+library
+  exposed-modules:
+      OuterModule
+  other-modules:
+      Paths_outer_project
+  hs-source-dirs:
+      lib
+  build-depends:
+      base
+    , project
+  default-language: Haskell2010

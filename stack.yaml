@@ -1,0 +1,4 @@
+packages:
+  - .
+  - submodules/mock-haskell-project-01
+resolver: lts-14.12

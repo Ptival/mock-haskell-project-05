@@ -1,0 +1,3 @@
+[submodule "submodules/mock-haskell-project-01"]
+	path = submodules/mock-haskell-project-01
+	url = git@github.com:Ptival/mock-haskell-project-01.git

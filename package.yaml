@@ -1,0 +1,13 @@
+dependencies:
+  - base
+
+library:
+  source-dirs: lib
+  dependencies:
+    - project
+  exposed-modules:
+    - OuterModule
+
+name: outer-project
+
+version: 0.0.1
